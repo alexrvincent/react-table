@@ -1,0 +1,28 @@
+{
+    "data": [
+        ["health condition", "gene", "variant", "effect", "classification"],
+        ["Cancer", "BRCA1", "c.*106C>T", "3 prime UTR variant", "Pathogenic"],
+        ["Cancer", "TP53", "deletion of exon 1", "CNV", "Pathogenic"],
+        ["Cancer", "BRCA1", "deletion of exons 13-18", "CNV", "Pathogenic"],
+        ["Cardiovascular Disease", "DSC2", "c.2554G>C", "missense variant", "Benign"],
+        ["Cardiovascular Disease", "MYH11", "c.-17G>C", "5 prime UTR variant, splice region variant", "Benign"],
+        ["Cardiovascular Disease", "FBN1", "c.8123A>G", "missense variant", "Benign"],
+        ["Cancer", "RB1", "c.*51C>G", "3 prime UTR variant", "Benign"],
+        ["Cancer", "RB1", "c.59C>T", "missense variant", "Benign"],
+        ["Cardiovascular Disease", "PKP2", "c.976G>A", "missense variant", "Likely Benign"],
+        ["Cardiovascular Disease", "PKP2", "c.2150C>T", "missense variant", "Likely Benign"],
+        ["Cardiovascular Disease", "PKP2", "c.2537C>T", "missense variant", "Likely Benign"],
+        ["Cancer", "SDHAF2", "c.*76C>T", "3 prime UTR variant", "Benign"],
+        ["Cardiovascular Disease", "MYBPC3", "c.2959G>A", "missense variant", "Benign"],
+        ["Cardiovascular Disease", "MYBPC3", "c.3787C>T", "missense variant", "Pathogenic"],
+        ["Cardiovascular Disease", "MYBPC3", "c.3799C>T", "missense variant", "Pathogenic"],
+        ["Cancer", "RET", "c.*48G>A", "3 prime UTR variant", "Benign"],
+        ["Cancer", "RET", "c.*29C>A", "3 prime UTR variant", "Benign"],
+        ["Cardiovascular Disease", "SCN5A", "c.1372C>T", "missense variant", "VUS"],
+        ["Cardiovascular Disease", "RYR2", "c.*55T>C", "3 prime UTR variant", "VUS"],
+        ["Cardiovascular Disease", "RYR2", "c.10690-3C>G", "intron variant, splice region variant", "VUS"],
+        ["Cardiovascular Disease", "RYR2", "c.4097C>A", "missense variant", "VUS"],
+        ["Cardiovascular Disease", "RYR2", "c.3217G>A", "missense variant, splice region variant", "Likely Pathogenic"],
+        ["Cardiovascular Disease", "MYH7", "c.732+1G>A", "intron variant, splice donor variant", "Likely Pathogenic"]
+    ]
+}

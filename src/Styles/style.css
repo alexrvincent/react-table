@@ -1,0 +1,8 @@
+.table__cell {
+    min-width: 200px;
+    background-color: white;
+}
+
+.table__cell--header {
+    background-color: grey;
+}
