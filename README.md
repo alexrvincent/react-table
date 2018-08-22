@@ -1,3 +1,9 @@
-Hello! This app was bootstrapped with create-react-app
+Hello! This app was bootstrapped with create-react-app. Here's how to get it running!
 
-To run it, simple run 'npm run start' after making sure you have Node 8.0 installed!
+1) Make sure you have node/npm installed
+2) Clone this repo
+3) Open up a terminal of your choice and cd into the directory you cloned this into
+4) Run 'npm install'
+5) Run 'npm run start'
+6) This will start the app on default localhost:3000 (make sure nothing else is running on that port!)
+7) Go ahead and click on the arrows on the columns and see the rows magically sort themselves! Spooky! :)
